@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Manu+Amarnath!;A+Passionate+Software+Developer+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Manu+Amarnath!;A+Passionate+Software+Developer+from+India" alt="Typing SVG" />
   <br/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" height="60" alt="waving hand"/>
 </div>
