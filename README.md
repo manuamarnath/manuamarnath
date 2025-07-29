@@ -27,7 +27,7 @@
   
   <h3>🌐 Frontend Development</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap,sass,tailwind,materialui,ts" height="50"/>
+    <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap,sass,tailwind,materialui,ts,threejs" height="50"/>
   </p>
   
   <h3>⚡ Backend & Database</h3>
