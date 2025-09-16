@@ -23,8 +23,10 @@
   </a>
 </p>
 
-![Portfolio](https://img.shields.io/badge/Portfolio-manuamarnath.life-orange?style=for-the-badge&logo=firefox)
+
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Manu%20Amarnath-blue?style=for-the-badge&logo=linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-manuamarnath.life-orange?style=for-the-badge&logo=firefox)](https://www.manuamarnath.life)
+
 
 ---
 
